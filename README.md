@@ -1,2 +1,2 @@
 # Flutter
-Flutter Project which fetches movie list online.
+Flutter Project which fetches movie list from server
